@@ -1,6 +1,5 @@
 ### DataInsightVault
 DataInsightVault: A curated collection showcasing my expertise in data science, data analysis, and business analytics. Explore diverse projects featuring hands-on analyses, predictive modeling, and actionable insights. Witness the power of data-driven decision-making and innovation.
-Certainly! Here's a concise structure for your README file using bullet points and highlights:
 
 ### Data Science Portfolio Repository
 
