@@ -29,5 +29,5 @@ DataInsightVault: A curated collection showcasing my expertise in data science, 
   
 #### Contact:
 - **Email**: [mohammad.faizal00@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/m-faizal-]
 
