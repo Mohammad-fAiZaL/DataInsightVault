@@ -10,9 +10,11 @@ DataInsightVault: A curated collection showcasing my expertise in data science, 
 - **Folders**: Organized by expertise and tools
   - `Python/`: Python-based projects and scripts
   - `R/`: R-based analyses and visualizations
+  - `SQL/`: Interactions with the database.
+  - `Advanced Excel`: Performing ETL and making dashboards.
+  - `Data Visualization/`: Charts, graphs, and visualization tools like PowerBI and Tableau.
   - `Machine Learning/`: Implementations and models
   - `Deep Learning/`: Neural networks and frameworks
-  - `Data Visualization/`: Charts, graphs, and visualization tools
   - `Resources/`: Essential materials and guides
   
 #### Features:
