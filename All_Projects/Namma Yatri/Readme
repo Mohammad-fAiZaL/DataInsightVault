@@ -1,0 +1,11 @@
+In this project, I successfully analyzed and recreated key performance indicators (KPIs) to derive valuable insights into the app's operations. 
+Through comprehensive data analysis, I was able to:
+
+Measure Total Activity: Accurately calculate total trips, drivers, and overall earnings.
+Evaluate Efficiency: Assess average distance and fare per trip to understand service efficiency.
+Analyze User Engagement: Track searches, estimates, and quotes to gauge customer interaction.
+Identify Patterns: Determine the most used payment methods and high-activity locations.
+Monitor Performance: Analyze driver and customer behavior, including cancellations and OTP usage.
+Optimize Operations: Provide insights on peak trip durations and high-earning drivers.
+This project has been a great opportunity to apply SQL skills to real-world data, offering actionable insights that can enhance the 
+operational efficiency and customer experience of the Namma Yatri app.
